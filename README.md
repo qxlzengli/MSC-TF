@@ -1,1 +1,1 @@
-# MSC_TF
+The source code will be released after paper acceptance.
